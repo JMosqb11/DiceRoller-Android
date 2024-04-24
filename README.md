@@ -16,5 +16,5 @@
 
 ## Screenshots
 
-![App Screenshot]([(https://res.cloudinary.com/dk9ktxdpj/image/upload/v1713989730/Capturas%20de%20pantalla%20apliciones/efl3y1hprluh43pbkes5.jpg)])
+![App Screenshot](https://res.cloudinary.com/dk9ktxdpj/image/upload/v1713989730/Capturas%20de%20pantalla%20apliciones/efl3y1hprluh43pbkes5.jpg)
 
